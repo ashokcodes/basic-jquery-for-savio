@@ -1,0 +1,7 @@
+.list-group-item{
+    transition: 1s all;
+}
+.list-group-item:hover{
+    background: var(--primary);
+    color: white;
+}
